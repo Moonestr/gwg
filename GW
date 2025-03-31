@@ -153,7 +153,7 @@ local Window = OrionLib:MakeWindow({
     HidePremium = false,
     IntroText = "Vexadez Scripts",
     SaveConfig = true,
-    ConfigFolder = "Vexadez ScriptsConfig"
+    ConfigFolder = "VexadezScriptsConfig"
 })
 local InfoTab = Window:MakeTab({
     Name = "Information",
