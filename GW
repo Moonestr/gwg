@@ -153,7 +153,7 @@ local Window = OrionLib:MakeWindow({
     HidePremium = false,
     IntroText = "Vexadez Scripts",
     SaveConfig = true,
-    ConfigFolder = "IceCCExploitConfig"
+    ConfigFolder = "Vexadez ScriptsConfig"
 })
 local InfoTab = Window:MakeTab({
     Name = "Information",
@@ -165,7 +165,7 @@ local InfoSection = InfoTab:AddSection({
 })
 InfoTab:AddParagraph("Alt Account Warning! ⚠️", "If You Are Using An Alt Account/Another Account Besdies Your Main, All Of The Exploits Will Not Work! This Will Only Work On Your Main Account Because The .SetVariables Are Stored On Your Main Account!")
 InfoTab:AddParagraph("MM2 Dupe Status! 🛠️", "The MM2 Dupe Is Currenty 100% Working. If You Find Any Errors/Bugs, Please Report Them To 'vexadezzz' On Discord!")
-InfoTab:AddLabel("Script Hub Made By The IceCC Team!💧")
+InfoTab:AddLabel("Script Hub Made By The Vexadez Scripts!💧")
 InfoTab:AddButton({
     Name = "Copy Discord Invite",
     Callback = function()
