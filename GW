@@ -211,7 +211,7 @@ local jj = Instance.new("Frame")
                 lll.Size = UDim2.new(0.7,0,1,4)
                 lll.Font = "SourceSansBold"
                 lll.TextColor3 = Color3.new(1,1,1)
-                lll.Text = "Almaz0"
+                lll.Text = "FX"
                 lll.TextStrokeTransparency = 0.5
                 lll.TextSize = 25
                 lll.TextScaled = true
@@ -219,10 +219,10 @@ end
 
 
 local Window = Rayfield:CreateWindow({
-   Name = "Almaz Spawner",
+   Name = "Vexadez Spawner",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "Vexadez Spawner",
-   LoadingSubtitle = "by Almaz0",
+   LoadingSubtitle = "by Vexadez",
    Theme = "Ocean", -- Check https://docs.sirius.menu/rayfield/configuration/themes
 
    DisableRayfieldPrompts = false,
